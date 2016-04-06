@@ -22,4 +22,7 @@ Sending 100MiB to docker container
  100MiB 0:00:00 [1,03GiB/s] [===============================>] 100%
 ```
 
+Want to send a bigger or smaller file? Change the `MEGABYTES` variable in
+`benchmark.sh`.
+
 That's all.
